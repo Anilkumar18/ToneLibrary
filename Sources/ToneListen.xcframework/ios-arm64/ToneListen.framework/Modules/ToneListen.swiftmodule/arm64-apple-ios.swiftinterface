@@ -20,6 +20,7 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class RemoteService {
   public static func handleContent(actionType: Swift.String, actionUrl: Swift.String)
   public static func checkTone(detectedTone: Swift.String)
+  public static func checkToneHourly()
   @objc deinit
 }
 public struct ToneFrameworkData {

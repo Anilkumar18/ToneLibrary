@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rktjAtmcJ2730oTK266XYAUWVnM=
+		turqRwD7wunhtkXdOisGfqo2x8w=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dLNR+pnTrhQEM/pSvpJE/5EXZlI=
+		JekWi/MRM6hIL81JAhEiJjzYp9E=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dLNR+pnTrhQEM/pSvpJE/5EXZlI=
+		JekWi/MRM6hIL81JAhEiJjzYp9E=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WowTUZTTNpb377l+xtZTb8vBPOM=
+		JgR+rXbVGRqOfsEW6JC8CZVsiMQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>frequency_tables.json</key>
 		<data>
-		hTDgQKY0L0PETCb0E69s8Ch9+Ug=
+		lMLt+lt4LMEJhtysSTc0IxzlZN4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gQVIZVtt6dvS7pqZ1iKbdFA2jyj+bgI0BNcZvsfIByY=
+			C3AbKWS0ciIgSKwgyLSjZ63Y96pqBDIiVKjS+cKbBv0=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uVei1WKzxzVEG8KaBKiiZidhnUqNEYEY1ZR+YyDKjE=
+			mz8ylrhi0poquBTxdGQlr6qsYBm8IwK3doEGObuwYS4=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,14 +86,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uVei1WKzxzVEG8KaBKiiZidhnUqNEYEY1ZR+YyDKjE=
+			mz8ylrhi0poquBTxdGQlr6qsYBm8IwK3doEGObuwYS4=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZTzxp7pAkXwVma3JhnrEcIkcH4keUeZB8+zCvCj/PM=
+			5K1P5EH0ZVsdPojZMF6aehjq/x1DfOEkX3BMRfUb0fE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nda5m4MrXTwm2eWkiRHBtTJPyQSjcv9g1dDMoPJYhPk=
+			Y9DIEVysfVsaHLoY93rV4AlrmUAkt3S6Nmya9jy8Rgw=
 			</data>
 		</dict>
 	</dict>
