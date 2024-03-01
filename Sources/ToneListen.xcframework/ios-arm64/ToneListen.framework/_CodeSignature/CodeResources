@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3KFIT2ixXv6oFgvdW+mLQVIVnD4=
+		P5Rtx2K7ZdpA7eN9GyM0vWoEESE=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rktjAtmcJ2730oTK266XYAUWVnM=
+		dWlMYYd9T/RyNeuAHv/4sCu0YP4=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dLNR+pnTrhQEM/pSvpJE/5EXZlI=
+		gwH5kd6gx/rTVqXvRK0kwOt1mrE=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		85ZvVd1ZjjBw+lkneO0hrUEZm+Y=
+		Z7tf0NmI+ocyXSuKmrrLg6R/7ko=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dLNR+pnTrhQEM/pSvpJE/5EXZlI=
+		gwH5kd6gx/rTVqXvRK0kwOt1mrE=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WowTUZTTNpb377l+xtZTb8vBPOM=
+		frR/hGC7AwojOradlFrvJLlhasc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,35 +65,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gQVIZVtt6dvS7pqZ1iKbdFA2jyj+bgI0BNcZvsfIByY=
+			w1kCDyM8e/XqjT4mLkjPNJgSpVvTVWd3w78lvvD+e1o=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uVei1WKzxzVEG8KaBKiiZidhnUqNEYEY1ZR+YyDKjE=
+			0yOQo5/eeP3E87UkDXZfEGW/drKKrgSlqGA170xZutA=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1RpWTdB5TUr86LKPXC1Ocs/GTR+B+EAxSEI90ZbTRMw=
+			f9Ql2Vo/p+z9tvuVGt17P+TtKdlW9xhDHuB4xJZmSvw=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uVei1WKzxzVEG8KaBKiiZidhnUqNEYEY1ZR+YyDKjE=
+			0yOQo5/eeP3E87UkDXZfEGW/drKKrgSlqGA170xZutA=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZTzxp7pAkXwVma3JhnrEcIkcH4keUeZB8+zCvCj/PM=
+			T3h2Rupw05cTkpCP2B/hOe4ibgcYnwKAsd6anjrl0YQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
