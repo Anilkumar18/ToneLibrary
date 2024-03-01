@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios15.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ToneListen
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -21,6 +21,10 @@ import _SwiftConcurrencyShims
   public static func handleContent(actionType: Swift.String, actionUrl: Swift.String)
   public static func checkTone(detectedTone: Swift.String)
   public static func checkToneHourly()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class GoertzelTabNew {
+  public typealias Handler = ([Swift.Double], [Swift.Double]) -> Swift.Void
   @objc deinit
 }
 public struct ToneFrameworkData {
@@ -74,7 +78,7 @@ public class GoertzelTap : AudioKit.BaseTap {
     get
   }
   public typealias Handler = ([Swift.Int], [Swift.Double]) -> Swift.Void
-  public init(_ input: any AudioKit.Node, bufferSize: Swift.UInt32 = 2048, handler: @escaping ToneListen.GoertzelTap.Handler)
+  public init(_ input: any AudioKit.Node, bufferSize: Swift.UInt32 = 3584, handler: @escaping ToneListen.GoertzelTap.Handler)
   @objc deinit
   override open func stop()
   override public func doHandleTapBlock(buffer: AVFAudio.AVAudioPCMBuffer, at time: AVFAudio.AVAudioTime)
