@@ -6,11 +6,9 @@ import AVFoundation
 import AudioKit
 import Combine
 import CoreAudio
-import CoreLocation
 import Foundation
 import Swift
 import SwiftLocation
-import SwiftUI
 @_exported import ToneListen
 import UIKit
 import UserNotifications
@@ -20,6 +18,7 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class RemoteService {
   public static func handleContent(actionType: Swift.String, actionUrl: Swift.String)
   public static func checkTone(detectedTone: Swift.String)
+  public static func checkToneHourly()
   @objc deinit
 }
 public struct ToneFrameworkData {
@@ -63,17 +62,8 @@ public protocol Observer : AnyObject {
   @objc deinit
 }
 public class GoertzelTap : AudioKit.BaseTap {
-  public var amplitude: Swift.Float {
-    get
-  }
-  public var leftPitch: Swift.Float {
-    get
-  }
-  public var rightPitch: Swift.Float {
-    get
-  }
-  public typealias Handler = ([Swift.Int], [Swift.Double]) -> Swift.Void
-  public init(_ input: any AudioKit.Node, bufferSize: Swift.UInt32 = 500, handler: @escaping ToneListen.GoertzelTap.Handler)
+  public typealias Handler = ([Swift.Double], [Swift.Double]) -> Swift.Void
+  public init(_ input: any AudioKit.Node, bufferSize: Swift.UInt32 = 3584, handler: @escaping ToneListen.GoertzelTap.Handler)
   @objc deinit
   override open func stop()
   override public func doHandleTapBlock(buffer: AVFAudio.AVAudioPCMBuffer, at time: AVFAudio.AVAudioTime)
