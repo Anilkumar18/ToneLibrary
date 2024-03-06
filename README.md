@@ -2,7 +2,7 @@
 # Tone Framework
 
 
-A Swift package for working with AudioKIK and allows to perceive and filter tones (frequencies) 
+A Swift package for working with AudioKit and allows to perceive and filter tones (frequencies) 
 
 ## Requirements
 
@@ -43,7 +43,7 @@ notificationSub = NotificationCenter.default.publisher(for: NotificationsHandler
 ```
 ## NOTE:
 
-You need to add "Background modes" capabilites to your proyect to allow use microphone and other services in background.
+You need to add "Background modes" capabilites to your project to allow using microphone and location services in background.
 
 Also you need to add frecuencies_table.json to your project.
 
@@ -62,8 +62,13 @@ let package = Package(
   dependencies: [
     .package(
         url: "https://github.com/The-TONE-Knows-Inc/ToneLibrary",
-        from: "TonelibraryV3"
+        from: "TonelibraryV2"
     ),
   ]
 )
 ```
+
+Or you can add the ToneLibrary package to your PROJECT package dependencies by clicking on (+) at the left bottom
+
+<img width="981" alt="Screenshot 2024-03-06 at 1 42 13 PM" src="https://github.com/Anilkumar18/ToneLibrary-iOS/assets/32846534/6c6bbfd3-8600-48ba-9f3e-749271b42e72">
+
