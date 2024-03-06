@@ -71,14 +71,14 @@ let package = Package(
 Or you can add the ToneLibrary package to your PROJECT package dependencies by following the steps below,
 
 ### 1. Click on (+) at the left bottom.
-
 <img width="981" alt="Screenshot 2024-03-06 at 1 42 13 PM" src="https://github.com/Anilkumar18/ToneLibrary-iOS/assets/32846534/6c6bbfd3-8600-48ba-9f3e-749271b42e72">
 
 ### 2. Add the package url "https://github.com/Anilkumar18/ToneLibrary-iOS.git" into the package URL.
-### 3. Select the "Exact version" - 8.0.3 and click on Add package button.
 
+### 3. Select the "Exact version" - 8.0.3.
 <img width="1075" alt="Screenshot 2024-03-06 at 2 10 19 PM" src="https://github.com/Anilkumar18/ToneLibrary-iOS/assets/32846534/edcfb9be-f4d0-42e9-8a56-b4318170da3f">
+
+### 4. Click on Add package button.
 <img width="650" alt="Screenshot 2024-03-06 at 2 12 52 PM" src="https://github.com/Anilkumar18/ToneLibrary-iOS/assets/32846534/472102ac-2a1e-47d4-9668-acd6a15ddc88">
 
-### 4. The package now gets installed to your project.
-
+### 5. The package now gets installed to your project.
