@@ -45,7 +45,7 @@ notificationSub = NotificationCenter.default.publisher(for: NotificationsHandler
 
 You need to add "Background modes" capabilites to your project to allow using microphone and location services in background.
 
-Also you need to add frecuencies_table.json to your project.
+Also you need to add "frequencies_table.json" file to your project.
 
 
 ## Installation
